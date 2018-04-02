@@ -1,0 +1,15 @@
+{
+  "name": "chan-react-websocket",
+  "version": "1.0.0",
+  "description": "websocket for chan-react app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "bilelz",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^5.1.0"
+  }
+}
